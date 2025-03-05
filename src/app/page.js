@@ -10,14 +10,14 @@ const authors = [
     name: "Doniyor Musayev",
     bio: "Full Stack Developer focused on ...",
     github: "https://github.com/MusayevDoniyor",
-    linkedin: "https://linkedin.com/in/ali",
+    linkedin: "https://www.linkedin.com/in/doniyor-musayev/",
     image: "/images/Doniyor.png",
   },
   {
     name: "Husanjon Ismoilov",
     bio: "Front End Developer focused on ...",
     github: "https://github.com/12Husanjon21",
-    linkedin: "https://linkedin.com/in/sardor",
+    linkedin: "https://www.linkedin.com/in/husanjon-ismoilov-937260320/",
     image: "/images/Husanjon.png",
   },
   {
